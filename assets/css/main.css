@@ -147,7 +147,7 @@ header {
 
 .header-banner {
     background: url('/assets/images/NN.png') no-repeat center;
-    background-size: cover;
+    background-size: cover!important;
     height: 100%;
     width: 100%;
     padding: 250px 0px 225px 0px;
